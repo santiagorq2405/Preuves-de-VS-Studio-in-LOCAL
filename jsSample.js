@@ -6,3 +6,4 @@ console.log(" Ciao mondo! ");     // Italiano
 console.log(" Olá Mundo! ");      // Portugués
 console.log(" Привет, мир! ");    // Ruso
 console.log(" こんにちは世界! ");   // Japonés
+console.log(" 你好，世界! ");      // Chino
